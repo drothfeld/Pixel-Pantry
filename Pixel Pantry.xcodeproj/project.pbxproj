@@ -53,6 +53,7 @@
 		B096AC742044FB2A001CBBEA /* Pixel Pantry */ = {
 			isa = PBXGroup;
 			children = (
+				B096AC852045D1A8001CBBEA /* Assets */,
 				B096AC752044FB2A001CBBEA /* AppDelegate.swift */,
 				B096AC772044FB2A001CBBEA /* ViewController.swift */,
 				B096AC792044FB2A001CBBEA /* Assets.xcassets */,
@@ -61,6 +62,21 @@
 				B096AC7F2044FB2A001CBBEA /* Pixel_Pantry.entitlements */,
 			);
 			path = "Pixel Pantry";
+			sourceTree = "<group>";
+		};
+		B096AC852045D1A8001CBBEA /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				B096AC862045D1B6001CBBEA /* Images */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		B096AC862045D1B6001CBBEA /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
